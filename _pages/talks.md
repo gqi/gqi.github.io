@@ -5,38 +5,32 @@ permalink: /talks/
 author_profile: true
 ---
 
-Invited talks
+Invited Conference Presentations
 ------
+2020 International Chinese Statistical Association (ICSA) Applied Statistics Symposium. Robust Mendelian randomization analysis using mixture models. Online.
 
-2021	Joint Statistical Meetings. Genome-wide association studies of 27 accelerometry-derived physical activity phenotypes (Online).
+2021 Joint Statistical Meetings. Genome-wide association studies of 27 accelerometry-derived physical activity phenotypes. Online.
 
-2020	International Chinese Statistical Association (ICSA) Applied Statistics Symposium. Robust Mendelian randomization analysis using mixture models (Online).
+2024 Conference on Statistics in Genomics and Genetics (STATGEN 2024), Invited Talk. Single-cell differential allele-specific expression using multiple samples. Pittsburgh, PA.
 
-2020	Shandong University Health Big Data Research Institute. Robust Mendelian randomization analysis using mixture models (Online).
+2024 International Chinese Statistical Association (ICSA) Applied Statistics Symposium, Invited Talk. DAESC: Single-cell differential allele-specific expression using multiple samples. Nashville, TN.
 
-2019	Joint meeting of Statistical Genetics and Causal Inference working groups, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. Recent Developments in Mendelian Randomization (Baltimore, MD).
-
-Other conference presentations
+Invited Seminar Presentations
 ------
+2019 Joint Meeting of Statistical Genetics and Causal Inference Working Groups, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. Recent developments in Mendelian randomization. Baltimore, MD.
 
-2022  American Society of Human Genetics (ASHG) Annual Meeting, **Poster Talk and Reviewers' Choice Abstract** (Los Angeles, CA). Single-cell allele-specific expression analysis reveals dynamic and cell-type-specific regulatory effects.
+2020 Shandong University Health and Medical Research Institute. Robust Mendelian randomization analysis using mixture models. Online.
 
-2021  American Society of Human Genetics (ASHG) Annual Meeting, Poster (Online). Single-cell allele-specific expression analysis and comparison using mixture models.
+2023 Shandong University Health and Medical Research Institute. Understanding the genetics of human traits through statistical integration of genetic and genomic data. Jinan, Shandong, China.
 
-2020	American Society of Human Genetics (ASHG) Annual Meeting, Poster (Online).
+2023 Cardiovascular Health Research Unit (CHRU) Seminar. Understanding the genetics of human traits through statistical integration of genetic and genomic data. Seattle, WA.
 
-2019	Fourth International Mendelian Randomization Conference, Oral Presentation (Bristol, UK).
+2023 Statistical Genomics and Genetics Seminar, Department of Biostatistics, Columbia University. Understanding the genetics of human traits through statistical integration of genetic and genomic data. Online.
 
-2019	American Society of Human Genetics (ASHG) Annual Meeting, Poster (Houston, TX).
+2023 COMBI Seminar, Department of Genomes Sciences, University of Washington. Understanding the genetics of human traits through statistical integration of genetic and genomic data. Seattle, WA.
 
-2019	MD-GEM Genetics Research Day, Poster (Baltimore, MD).
+2023 National Cancer Institute Division of Cancer Epidemiology and Genetics (DCEG) Statistical Genetics Workshop. An introduction to Mendelian randomization. Rockville, MD.
 
-2018	Program in Quantitative Genomics (PQG) Conference, Poster (Boston, MA).
+2024 Biostatistics Seminar, Fred Hutchinson Cancer Center. Transcriptome-wide association studies using single-cell eQTL data. Seattle, WA.
 
-2018	American Society of Human Genetics (ASHG) Annual Meeting, Poster and **Reviewers' Choice Abstract** (San Diego, CA).
-
-2018	Joint Statistical Meetings (JSM), Topic Contributed Talk (Vancouver, Canada).
-
-2017	American Society of Human Genetics (ASHG) Annual Meeting, Poster and **Reviewers' Choice Abstract** (Orlando, FL).
-
-2017	MD-GEM Genetics Research Day, Poster (Baltimore, MD).
+2024 Biostatistics Seminar, Department of Epidemiology, Biostatistics and Occupational Health, McGill University. Online.
