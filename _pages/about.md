@@ -18,7 +18,7 @@ I am a tenure-track Assistant Professor of Biostatistics at the University of Wa
 
 See [here](research.md) for more details.
 
-### News!
+## News!
 * **January 2025:** Qi receives a 5-year K01 award from NIH to develop statistical methods for integration of single-cell eQTL and GWAS data. 
 
 
