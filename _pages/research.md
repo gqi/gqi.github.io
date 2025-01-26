@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
 My research is broadly in the area of statistical genetics
 
 #### Integration of single-cell eQTL and GWAS data
