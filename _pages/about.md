@@ -10,11 +10,13 @@ redirect_from:
 
 I am a tenure-track Assistant Professor of Biostatistics at the University of Washington. My research is centered around **multi-omic approaches to statistical genetics**. I develop statistical and machine learning methods to understand the effect of genetic variation on complex traits. These methods typically use data from genome-wide association studies (GWAS), whole-genome sequencing (WGS), and functional genomic data such as single-cell RNA-seq. Specific areas include:
 
-* *Integration of single-cell eQTL and GWAS data.* GWAS have identified thousands of variants associated with complex traits and diseases. However, the underlying biological mechanisms are unclear. Single-cell expression quantitative trait loci (eQTL) characterize the effect of genetic variants on gene expression at cell-type-specific level, and hence reveal potential mediating mechanisms for variant-trait associations. Statistical methods typically involve high-dimensional and functional data analysis.
+* *Integration of single-cell eQTL and GWAS data.*
 
-* *Multi-trait genetic association analysis.* Traditionally, GWAS analyze one trait at time to investigate its genetic architecture. Multi-trait methods integrate information across traits to yield novel insight of variant function across the phenome and boost statistical power. Statistical methods for this area involve empirical Bayes methods, meta-analysis, etc.
+* *Multi-trait genetic association analysis.* 
 
-* *Mendelian randomization.* Mendelian randomization (MR), which lies in the intersection of statistical genetics and causal inference, uses genetic variants as instrumental variables to study the causal relationship between risk factors and diseases. My work includes MR methods robust to horizontal pleiotropy and multi-ethnic MR.
+* *Mendelian randomization.*
+
+See here for more details. Check out my list of publications [here](publications.md).
 
 Previously, I obtained my PhD in Biostatistics from Johns Hopkins University in 2020 (advisor: [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)), and completed postdoctoral training also at Johns Hopkins (advisor: [Alexis Battle](https://battlelab.jhu.edu/)). 
 
