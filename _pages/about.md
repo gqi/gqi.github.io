@@ -18,8 +18,6 @@ I am a tenure-track Assistant Professor of Biostatistics at the University of Wa
 
 See [here](research.md) for more details. Check out my list of publications [here](publications.md).
 
-Previously, I obtained my PhD in Biostatistics from Johns Hopkins University in 2020 (advisor: [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)), and completed postdoctoral training also at Johns Hopkins (advisor: [Alexis Battle](https://battlelab.jhu.edu/)). 
-
 Click [here](https://www.biostat.washington.edu/people/guanghao-qi) for my UW faculty page.
 
 
