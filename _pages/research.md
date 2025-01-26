@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research is broadly in the area of statistical genetics. Specific topics of interst include:
+My research is broadly in the area of statistical genetics ([list of publications](publications.md)). Specific topics of interest include:
 
 ### Integration of single-cell eQTL and GWAS data
 
