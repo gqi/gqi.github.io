@@ -20,7 +20,7 @@ See [here](research.md) for more details.
 
 ## News!
 * **January 2025:** Qi receives a 5-year K01 award from NIH to develop statistical methods for integration of single-cell eQTL and GWAS data. 
-
+* **March 2025:** The TWiST method for single-cell TWAS is now on medrxiv ([link](https://www.medrxiv.org/content/10.1101/2025.03.17.25324128v1)).
 
 Education
 ------
