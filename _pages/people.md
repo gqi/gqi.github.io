@@ -23,3 +23,9 @@ Research project: Mendelian randomization across multiple ancestries.
 Tengfei Cui, MS Biostatistics
 
 Research project: A GPU-based scalable software for single-cell allele-specific exression analysis.
+
+<img src="/images/SuyangYu_photo.png" alt="Tengfei" width="150"/>
+
+Suyang Yu, MS Statistics
+
+Research project: Scalable prediction of genetically regulated gene expression in single-cells 
