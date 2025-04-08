@@ -24,7 +24,7 @@ Tengfei Cui, MS Biostatistics
 
 Research project: A GPU-based scalable software for single-cell allele-specific exression analysis.
 
-<img src="/images/SuyangYu_photo.png" alt="Tengfei" width="150"/>
+<img src="/images/SuyangYu_phono.png" alt="Suyang" width="150"/>
 
 Suyang Yu, MS Statistics
 
