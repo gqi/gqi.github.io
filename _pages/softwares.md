@@ -13,3 +13,4 @@ author_profile: true
 
 [DAESC](https://github.com/gqi/DAESC): Differential allele-specific expression using single-cell RNA-seq data.
 
+[TWiST](https://github.com/gqi/TWiST): Transcriptome-wide association studies at cell state level using single-cell eQTL data.
