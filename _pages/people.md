@@ -29,12 +29,12 @@ Research project: Scalable prediction of genetically regulated gene expression i
 
 <img src="/images/WenyuBo_photo.jpg" alt="Wenyu" width="150"/>
 
-Wenyu Bo, MS Statistics
+Wenyu Bo, MS Statistics (2023-2025)
 
 Current position: PhD student, Computer Science, University of Waterloo
 
 <img src="/images/TengfeiCui_photo.jpg" alt="Tengfei" width="150"/>
 
-Tengfei Cui, MS Biostatistics
+Tengfei Cui, MS Biostatistics (2023-2025)
 
 Current position: PhD student, Statistics, Texas A&M University
