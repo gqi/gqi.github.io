@@ -7,6 +7,8 @@ author_profile: true
 
 1. Cui T, **Qi G**. DAESC+: High-performance, integrated software for single-cell allele-specific expression data. ***bioRxiv*** (2025): 674100. <https://doi.org/10.1101/2025.09.03.674100>.
 
+1. Cui EH, Yu HX, **Qi G**, Wong WK. Metaheuristics Meets Statistics: Cuckoo Search for Designs, Inference, and Data Geometry. Submitted to Statistics and Computing. <https://www.researchsquare.com/article/rs-7438415/v1>.
+
 1. **Qi G**, Lila E, Ji Z, Shojaie A, Battle A, Sun W. Transcriptome-wide association studies at cell state level using single-cell eQTL data. ***medRxiv*** (2025): 25324128. <https://doi.org/10.1101/2025.03.17.25324128>. In press for Cell Genomics.
 
 1. **Qi G**, Chhetri SB, Ray D, Dutta D, Battle A, Bhattacharjee S, Chatterjee N. Genome-wide large-scale multi-trait analysis characterizes global patterns of pleiotropy and unique trait-specific variants. ***Nature Communications*** (2024). <https://doi.org/10.1038/s41467-024-51075-5>.
