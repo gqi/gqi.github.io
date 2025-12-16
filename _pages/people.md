@@ -9,7 +9,7 @@ author_profile: true
 
 <img src="/images/Seth_Peacock.jpg" alt="Seth" width="150"/>
 
-Seth Peacock, PhD Biostatistics (Research Assistant)
+Seth Peacock, PhD Biostatistics
 
 Research project: Single-cell eQTL analysis integrating multiple data sources.
 
