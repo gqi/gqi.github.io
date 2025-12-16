@@ -25,6 +25,12 @@ Suyang Yu, MS Statistics
 
 Research project: Scalable prediction of genetically regulated gene expression in single cells 
 
+<img src="/images/YuhanZhang.jpg" alt="Yuhan" width="150"/>
+
+Yuhan Zhang, MS Biostatistics
+
+Research project: Estimating disease heriatbility mediated by single-cell gene expression
+
 ### Alumni
 
 <img src="/images/WenyuBo_photo.jpg" alt="Wenyu" width="150"/>
