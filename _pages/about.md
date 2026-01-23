@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track Assistant Professor of Biostatistics at the University of Washington ([UW faculty page](https://www.biostat.washington.edu/people/guanghao-qi)). My research is centered around developing statistical and machine learning methods for multi-omics approaches to genetic studies. These methods typically use data from genome-wide association studies (GWAS), whole-genome sequencing (WGS), and functional genomic data such as single-cell RNA-seq. Specific areas include:
+I am a tenure-track Assistant Professor of Biostatistics at the University of Washington ([UW faculty page](https://www.biostat.washington.edu/people/guanghao-qi)). My research is centered around developing multi-omic statistical and machine learning methods for genetic studies. These methods typically use data from genome-wide association studies (GWAS), whole-genome sequencing (WGS), and functional genomic data such as single-cell RNA-seq. Specific areas include:
 
 * **Integrative analysis of single-cell RNA-seq and GWAS data:** Using single-cell expression quantitative trait loci (eQTL) and allele-specific expression (ASE) data to investigate biological mechanisms underlying variant-trait associations.
 
