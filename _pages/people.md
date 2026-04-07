@@ -7,17 +7,17 @@ author_profile: true
 
 ### Current
 
+<img src="/images/JiayuChenPhoto.jpg" alt="Jiayu" width="150"/>
+
+Jiayu Chen, Research Staff
+
+Research projects: Transcriptome-wide association studies using single-cell eQTL data & rare disease diagnosis using genomic sequencing data. 
+
 <img src="/images/Seth_Peacock.jpg" alt="Seth" width="150"/>
 
 Seth Peacock, PhD Biostatistics
 
-Research project: Single-cell eQTL analysis integrating multiple data sources.
-
-<img src="/images/JiayuChenPhoto.jpg" alt="Jiayu" width="150"/>
-
-Jiayu Chen, MS Biostatistics
-
-Research project: Transcriptome-wide association studies using single-cell eQTL data 
+Research project: Single-cell eQTL meta-analysis across heterogeneous studies.
 
 <img src="/images/SuyangYu_phono.png" alt="Suyang" width="150"/>
 
