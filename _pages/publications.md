@@ -8,7 +8,7 @@ author_profile: true
    
 1. **Qi G**, Lila E, Ji Z, Shojaie A, Battle A, Sun W. Transcriptome-wide association studies at cell state level using single-cell eQTL data. ***Cell Genomics*** (2026). <https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00316-7>.
 
-1. Yu, B, Liu, D, **Qi, G**, Huangfu, D, Hsu, L, Shojaie, A, & Sun, W. CausalGRN: deciphering causal gene regulatory networks from single-cell CRISPR screens. ***bioRxiv*** (2025).
+1. Yu, B, Liu, D, **Qi, G**, Huangfu, D, Hsu, L, Shojaie, A, & Sun, W. CausalGRN: deciphering causal gene regulatory networks from single-cell CRISPR screens. ***bioRxiv*** (2025). <https://doi.org/10.64898/2025.12.30.692369>.
 
 1. Cui EH, Yu HX, **Qi G**, Wong WK. Metaheuristics Meets Statistics: Cuckoo Search for Designs, Inference, and Data Geometry. Preprint at Research Square (2025). <https://www.researchsquare.com/article/rs-7438415/v1>.
 
