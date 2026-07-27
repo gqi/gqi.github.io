@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Heavner BD, Wheeler MM, …, **Qi G**,…, Genomics Research to Elucidate the Genetics of Rare Diseases (GREGoR) Consortium, GREGoR Consortium Data Standards and Analysis Working Group, Berger SI, Chong J. Building an interoperable rare disease multi-omic resource: the GREGoR data model and dataset. ***bioRxiv*** (2026). <https://doi.org/10.64898/2026.05.15.725546>.
+1. Kim H, Brody JA, **Qi G**, Ye T, Kalani R, Appel LJ, Rebholz CM, Davies NM, Floyd JS. Circulating proteins altered in response to the Dietary Approaches to Stop Hypertension (DASH) diet suggest underlying molecular mechanisms and long-term health benefits. ***medRxiv*** (2026). <https://doi.org/10.64898/2026.07.22.26358749>.
 
+1. Heavner BD, Wheeler MM, …, **Qi G**,…, Genomics Research to Elucidate the Genetics of Rare Diseases (GREGoR) Consortium, GREGoR Consortium Data Standards and Analysis Working Group, Berger SI, Chong J. Building an interoperable rare disease multi-omic resource: the GREGoR data model and dataset. ***bioRxiv*** (2026). <https://doi.org/10.64898/2026.05.15.725546>.
 
 1. Cui T, **Qi G**. DAESC+: High-performance, integrated software for single-cell allele-specific expression data. ***BMC Bioinformatics*** (2026). <https://link.springer.com/article/10.1186/s12859-026-06426-y>.
    
